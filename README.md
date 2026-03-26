@@ -2,6 +2,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Anish Agarwal</h1> 
+<h3 align="center">A passionate Software developer from India</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on full-stack web applications using the MERN stack and Spring Boot, focusing on scalable and secure systems<br><br>🤝 I’m looking to collaborate on real-time applications, frontend and backend systems, and innovative web projects<br><br>🧠 I’m looking for help with advanced system design, scalable architectures, and optimizing backend performance and making UI interactive.<br><br>🌱 I’m currently learning Data Structures & Algorithms (DSA) deeply along with system design and cloud fundamentals<br><br>💬 Ask me about MERN Stack, Java, Spring Boot, REST APIs, JWT Authentication, and DSA<br><br>⚡ Fun fact: I’ve solved 150+ DSA problems and love turning ideas into real-world applications
 
