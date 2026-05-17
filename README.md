@@ -6,7 +6,8 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on full-stack web applications using the MERN stack and Spring Boot, focusing on scalable and secure systems<br><br>🤝 I’m looking to collaborate on real-time applications, frontend and backend systems, and innovative web projects<br><br>🧠 I’m looking for help with advanced system design, scalable architectures, and optimizing backend performance and making UI interactive.<br><br>🌱 I’m currently learning Data Structures & Algorithms (DSA) deeply along with system design and cloud fundamentals<br><br>💬 Ask me about MERN Stack, Java, Spring Boot, REST APIs, JWT Authentication, and DSA<br><br>⚡ Fun fact: I’ve solved 150+ DSA problems and love turning ideas into real-world applications
+🔭 I’m currently working on full-stack web applications focusing on scalable and secure systems<br><br>🤝 I’m looking to collaborate on real-time applications, frontend and backend systems, and innovative web projects<br><br>🧠 I’m looking for help with advanced system design, scalable architectures, and optimizing backend performance and making UI interactive.<br><br>🌱 I’m currently learning Data Structures & Algorithms (DSA) deeply along with system design. <br><br>💬 Working on a Software Bug Prediction Model using Machine Learning techniques and Explainable AI approaches to identify potential defects in software systems. <br><br>⚡ Fun fact: I’ve solved 200+ DSA problems and continue sharpening my problem-solving skills by consistently tackling new challenges and building real-world applications.
+
 
 
 ## 🌐 Socials:
