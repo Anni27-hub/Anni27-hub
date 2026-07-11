@@ -134,22 +134,10 @@ AI-powered Assessment Generator using Redis, BullMQ and LLMs.
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Anni27-hub&theme=tokyonight&hide_border=true"/>
 </p>
 
-##  Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anni27-hub&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ##  Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anni27-hub&theme=tokyo-night&hide_border=true"/>
-</p>
-
-##  GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anni27-hub&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ##  Contribution Snake
