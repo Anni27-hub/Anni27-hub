@@ -2,16 +2,40 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Anish Agarwal</h1> 
+<h1 align="center">Hi 👋, I'm Anish Agarwal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-# 💫 About Me:
-🔭 I’m currently working on full-stack web applications focusing on scalable and secure systems<br><br>🤝 I’m looking to collaborate on real-time applications, frontend and backend systems, and innovative web projects<br><br>🧠 I’m looking for help with advanced system design, scalable architectures, and optimizing backend performance and making UI interactive.<br><br>🌱 I’m currently learning Data Structures & Algorithms (DSA) deeply along with system design. <br><br>💬 Working on a Software Bug Prediction Model using Machine Learning techniques and Explainable AI approaches to identify potential defects in software systems. <br><br>⚡ Fun fact: I’ve solved 300+ DSA problems and continue sharpening my problem-solving skills by consistently tackling new challenges and building real-world applications.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anni27-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+# 💫 About Me
+
+🔭 I’m currently working on **full-stack web applications** focusing on scalable, secure, and production-ready systems.
+
+🤝 I’m looking to collaborate on **real-time applications, frontend & backend systems, AI-powered solutions, and innovative web projects**.
+
+🧠 I’m looking for help with **advanced system design, scalable architectures, backend optimization, and building highly interactive user interfaces**.
+
+🌱 I’m currently learning **Data Structures & Algorithms (DSA)** in depth along with **System Design** and modern backend engineering.
+
+🤖 I’m exploring **Generative AI, LLMs, Redis, and BullMQ** to build intelligent and scalable applications.
+
+💬 I'm currently working on a **Software Bug Prediction Model** using **Machine Learning** techniques and **Explainable AI (SHAP)** to identify potential defects in software systems.
+
+🎯 My goal is to become a **Software Development Engineer (SDE)** by continuously improving my problem-solving skills and building impactful real-world applications.
+
+⚡ **Fun Fact:** I've solved **300+ DSA problems** and continue sharpening my problem-solving skills by consistently tackling new challenges and building real-world applications.
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/anish_ag27)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:agarwalanish270902@gmail.com)
+
+# 💻 Tech Stack
 
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anish_ag27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anish-agarwal-b37521225/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agarwalanish270902@gmail.com) 
 # 💻 Tech Stack
 
 ### 🚀 Languages
@@ -94,5 +118,69 @@
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe_Acrobat_Reader-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
+
+# 🚀 Featured Projects
+
+### 🤖 CodeSentinel
+AI-powered GitHub Pull Request Reviewer built with the MERN stack, WebSockets and Gemini API.
+
+### 📄 RoleFit AI
+AI-powered Resume Analyzer & Job Matcher using LLMs.
+
+### 📝 VedaAI
+AI-powered Assessment Generator using Redis, BullMQ and LLMs.
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anni27-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Anni27-hub&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anni27-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anni27-hub&theme=tokyo-night&hide_border=true"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Anni27-hub&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+## 🐍 Contribution Snake
+
+> Enable the GitHub Action from Platane's `snake` workflow, then use:
+
+```md
+<p align="center">
+<img src="https://raw.githubusercontent.com/Anni27-hub/Anni27-hub/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+```
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
+
+
+
+
+
+
+
 
