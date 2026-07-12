@@ -119,7 +119,7 @@
 #  Featured Projects
 
 ###  CodeSentinel
-AI-powered GitHub Pull Request Reviewer built with the MERN stack and Gemini API.
+AI-powered GitHub Pull Request Reviewer built to help Developers reduce their workload
 [Live Demo](https://code-sentinel-v2xv.vercel.app/)
 
 ###  RoleFit AI
