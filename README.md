@@ -11,15 +11,15 @@
 
 #  About Me
 
- I’m currently working on **full-stack web applications** focusing on scalable, secure, and production-ready systems.
+ I'm currently working on **full-stack web applications** focusing on scalable, secure, and production-ready systems.
 
- I’m looking to collaborate on **real-time applications, frontend & backend systems, AI-powered solutions, and innovative web projects**.
+ I'm looking to collaborate on **real-time applications, frontend & backend systems, AI-powered solutions, and innovative web projects**.
 
- I’m looking for help with **advanced system design, scalable architectures, backend optimization, and building highly interactive user interfaces**.
+ I'm looking for help with **advanced system design, scalable architectures, backend optimization, and building highly interactive user interfaces**.
 
- I’m currently learning **Data Structures & Algorithms (DSA)** in depth along with **System Design** and modern backend engineering.
+ I'm currently learning **Data Structures & Algorithms (DSA)** in depth along with **System Design** and modern backend engineering.
 
- I’m exploring **Generative AI, LLMs, Redis, and BullMQ** to build intelligent and scalable applications.
+ I'm exploring **Generative AI, LLMs, Redis, and BullMQ** to build intelligent and scalable applications.
 
  I'm currently working on a **Software Bug Prediction Model** using **Machine Learning** techniques and **Explainable AI (SHAP)** to identify potential defects in software systems.
 
@@ -29,8 +29,8 @@
 
 ##  Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/anish_ag27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-agarwal-b37521225/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/anish_ag27/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:agarwalanish270902@gmail.com)
 
 #  Tech Stack
@@ -120,12 +120,15 @@
 
 ###  CodeSentinel
 AI-powered GitHub Pull Request Reviewer built with the MERN stack and Gemini API.
+[Live Demo](https://code-sentinel-v2xv.vercel.app/)
 
 ###  RoleFit AI
 AI-powered Resume Analyzer & Job Matcher using LLMs.
+[Live Demo](https://role-fit-ai-plum.vercel.app/)
 
 ###  VedaAI
 AI-powered Assessment Generator using Redis, BullMQ and LLMs.
+[Live Demo](https://vedaai-frontend-brown.vercel.app/)
 
 #  GitHub Stats
 
@@ -140,16 +143,6 @@ AI-powered Assessment Generator using Redis, BullMQ and LLMs.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anni27-hub&theme=tokyo-night&hide_border=true"/>
 </p>
 
-##  Contribution Snake
-
-> Enable the GitHub Action from Platane's `snake` workflow, then use:
-
-```md
-<p align="center">
-<img src="https://raw.githubusercontent.com/Anni27-hub/Anni27-hub/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-```
-
 ## Random Dev Quote
 
 <p align="center">
@@ -161,11 +154,3 @@ AI-powered Assessment Generator using Redis, BullMQ and LLMs.
 <p align="center">
 ⭐ If you like my work, consider giving a star to my repositories!
 </p>
-
-
-
-
-
-
-
-
