@@ -64,9 +64,11 @@
 ![WebSocket](https://img.shields.io/badge/WebSocket-4C5AA0?style=for-the-badge&logo=websocket&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 
-###  AI & Machine Learning
+### AI & Machine Learning
 ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-6A1B9A?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![Explainable AI](https://img.shields.io/badge/Explainable_AI-00897B?style=for-the-badge)
 
 ###  Caching & Queues
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
